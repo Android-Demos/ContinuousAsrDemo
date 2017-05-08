@@ -11,7 +11,14 @@
                     "endOffset": 101
                 },
                 "from": {
-                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/colors.xml"
+                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 50,
+                        "endOffset": 103
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 152
                 },
                 "from": {
-                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/colors.xml"
+                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 50,
+                        "endOffset": 155
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 203
                 },
                 "from": {
-                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/colors.xml"
+                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 50,
+                        "endOffset": 207
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 253
                 },
                 "from": {
-                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/colors.xml"
+                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 49,
+                        "endOffset": 258
+                    }
                 }
             },
             {
@@ -78,7 +106,14 @@
                     "endOffset": 341
                 },
                 "from": {
-                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/strings.xml"
+                    "file": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
                 }
             }
         ]

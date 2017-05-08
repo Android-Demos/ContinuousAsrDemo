@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/jniLibs"><file name="armeabi/libvadLib.so" path="/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/jniLibs/armeabi/libvadLib.so"/><file name="armeabi/libmsc.so" path="/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/jniLibs/armeabi/libmsc.so"/></source></dataSet><dataSet config="debug"><source path="/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/debug/jniLibs"/></dataSet></merger>
