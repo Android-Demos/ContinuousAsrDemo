@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="changing_text1">#ff006aff</color>
+    <color name="changing_text2">#ff002aff</color>
+    <color name="changing_text3">#ff7800ff</color>
+    <color name="curruent_text">#ff2d333d</color>
+</resources>

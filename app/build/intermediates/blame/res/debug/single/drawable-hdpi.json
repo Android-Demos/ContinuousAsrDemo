@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/mic_p.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/mic_p.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/bg.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/bg.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/circle_cancel.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/circle_cancel.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/circle_load.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/circle_load.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/mic_n.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/mic_n.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/input_p.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/input_p.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/input_n.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/input_n.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/mic_d.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/mic_d.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/circle_outter.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/circle_outter.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/circle_vol.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/circle_vol.png"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/circle_inner.png",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/circle_inner.png"
+    }
+]

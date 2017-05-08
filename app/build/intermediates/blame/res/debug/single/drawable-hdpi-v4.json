@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mic.xml",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/mic.xml"
+    },
+    {
+        "merged": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/input.xml",
+        "source": "/home/xiamin/xiamin/Github/ContinuousIatDemo/app/src/main/res/drawable-hdpi/input.xml"
+    }
+]
